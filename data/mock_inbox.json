@@ -1,0 +1,152 @@
+[
+  {
+    "id": "e001",
+    "sender": "boss@company.com",
+    "subject": "Urgent: Q4 Report Due",
+    "body": "Hi Team,\n\nI need the Q4 financial report by this Friday at 5 PM. Please ensure all department summaries are included.\n\nThanks,\nBoss",
+    "timestamp": "2023-10-25T09:00:00",
+    "category": null,
+    "action_items": null,
+    "processed": false
+  },
+  {
+    "id": "e002",
+    "sender": "newsletter@techweekly.com",
+    "subject": "Tech Weekly: AI Revolution",
+    "body": "This week in tech: New AI models released, stock market updates, and more...",
+    "timestamp": "2023-10-25T10:15:00",
+    "category": null,
+    "action_items": null,
+    "processed": false
+  },
+  {
+    "id": "e003",
+    "sender": "client@bigcorp.com",
+    "subject": "Meeting Request: Project Kickoff",
+    "body": "Hello,\n\nWe would like to schedule a kickoff meeting for the new project next Tuesday at 2 PM EST. Does that work for you?\n\nBest,\nClient",
+    "timestamp": "2023-10-25T11:30:00",
+    "category": null,
+    "action_items": null,
+    "processed": false
+  },
+  {
+    "id": "e004",
+    "sender": "spam@offers.com",
+    "subject": "You won a cruise!",
+    "body": "Click here to claim your free cruise vacation! Limited time offer.",
+    "timestamp": "2023-10-25T12:00:00",
+    "category": null,
+    "action_items": null,
+    "processed": false
+  },
+  {
+    "id": "e005",
+    "sender": "colleague@company.com",
+    "subject": "Lunch?",
+    "body": "Hey, anyone up for tacos today?",
+    "timestamp": "2023-10-25T12:15:00",
+    "category": null,
+    "action_items": null,
+    "processed": false
+  },
+  {
+    "id": "e006",
+    "sender": "hr@company.com",
+    "subject": "Open Enrollment for Benefits",
+    "body": "Hi Everyone,\n\nOpen enrollment for health benefits starts next week. Please review the attached guide and make your selections by Nov 15th.\n\nRegards,\nHR",
+    "timestamp": "2023-10-25T14:00:00",
+    "category": null,
+    "action_items": null,
+    "processed": false
+  },
+  {
+    "id": "e007",
+    "sender": "project_manager@company.com",
+    "subject": "Update on Phase 1",
+    "body": "Phase 1 is 90% complete. We just need to finalize the UI mocks. Can you review them by tomorrow morning?",
+    "timestamp": "2023-10-25T15:45:00",
+    "category": null,
+    "action_items": null,
+    "processed": false
+  },
+  {
+    "id": "e008",
+    "sender": "noreply@service.com",
+    "subject": "Your subscription is renewing",
+    "body": "Your monthly subscription will renew on Oct 30th. No action needed if you wish to continue.",
+    "timestamp": "2023-10-25T16:00:00",
+    "category": null,
+    "action_items": null,
+    "processed": false
+  },
+  {
+    "id": "e009",
+    "sender": "recruiter@linkedin.com",
+    "subject": "New job opportunity",
+    "body": "I saw your profile and thought you'd be a great fit for this Senior Developer role...",
+    "timestamp": "2023-10-26T09:30:00",
+    "category": null,
+    "action_items": null,
+    "processed": false
+  },
+  {
+    "id": "e010",
+    "sender": "mom@family.com",
+    "subject": "Sunday Dinner",
+    "body": "Are you coming over for dinner this Sunday? Let me know so I can buy groceries.",
+    "timestamp": "2023-10-26T10:00:00",
+    "category": null,
+    "action_items": null,
+    "processed": false
+  },
+  {
+    "id": "e011",
+    "sender": "devops@company.com",
+    "subject": "Server Maintenance",
+    "body": "Scheduled maintenance will occur this Saturday from 2 AM to 4 AM. Expect downtime.",
+    "timestamp": "2023-10-26T11:00:00",
+    "category": null,
+    "action_items": null,
+    "processed": false
+  },
+  {
+    "id": "e012",
+    "sender": "marketing@company.com",
+    "subject": "New Logo Assets",
+    "body": "Here are the final logo assets for the website. Please update them on the landing page.",
+    "timestamp": "2023-10-26T13:20:00",
+    "category": null,
+    "action_items": null,
+    "processed": false
+  },
+  {
+    "id": "e013",
+    "sender": "ceo@company.com",
+    "subject": "All Hands Meeting",
+    "body": "Reminder: All Hands meeting tomorrow at 10 AM in the main conference room.",
+    "timestamp": "2023-10-26T15:00:00",
+    "category": null,
+    "action_items": null,
+    "processed": false
+  },
+  {
+    "id": "e014",
+    "sender": "support@tool.com",
+    "subject": "Ticket #1234 Resolved",
+    "body": "Your support ticket #1234 has been marked as resolved. Please rate your experience.",
+    "timestamp": "2023-10-26T16:30:00",
+    "category": null,
+    "action_items": null,
+    "processed": false
+  },
+  {
+    "id": "e015",
+    "sender": "security@company.com",
+    "subject": "Security Training",
+    "body": "You have not completed the mandatory security training. Please complete it by end of day.",
+    "timestamp": "2023-10-27T09:00:00",
+    "category": null,
+    "action_items": null,
+    "processed": false
+  }
+]
