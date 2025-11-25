@@ -2,6 +2,11 @@
 
 An intelligent, prompt-driven email productivity agent capable of processing an inbox and performing automated tasks such as categorization, action-item extraction, and auto-drafting replies.
 
+## 📺 Demo & Deployment
+
+- **Video Demo**: [Watch on Google Drive](#) *(Add your video link here after recording)*
+- **Live Deployment**: [View Live App](#) *(Add your deployment URL here after hosting)*
+
 ## Features
 
 - **Inbox Ingestion**: Load and view emails from a mock inbox.
